@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Usuario</string>
+    <string name="strFullName">FullName</string>
+    <string name="strSetDate">Set Date</string>
+    <string name="strBirthday">Birdthday</string>
+    <string name="strBtnCancel">Cancel</string>
+    <string name="strBtnOk">Ok</string>
+    <string name="strPhone">Phone</string>
+    <string name="strEmail">Email</string>
+    <string name="strUserDesc">Contact Description</string>
+    <string name="strBtnNext">Next</string>
+    <string name="strConfirm">Confirm Data</string>
+    <string name="strPhoneAbbrev">Phone</string>
+    <string name="strDesc">Description</string>
+    <string name="strBtnEdit">Edit Data</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Usuario</string>
+    <string name="strFullName">Nombre completo</string>
+    <string name="strSetDate">Selecciona Fecha</string>
+    <string name="strBirthday">Fecha Nacimiento</string>
+    <string name="strBtnCancel">Cancelar</string>
+    <string name="strBtnOk">Aceptar</string>
+    <string name="strPhone">Teléfono</string>
+    <string name="strEmail">Correo Electrónico</string>
+    <string name="strUserDesc">Descripción Contacto</string>
+    <string name="strBtnNext">Siguiente</string>
+    <string name="strConfirm">Confirmar Datos</string>
+    <string name="strPhoneAbbrev">Tel.</string>
+    <string name="strDesc">Descripción</string>
+    <string name="strBtnEdit">Editar Datos</string>
+</resources>
